@@ -3,5 +3,6 @@
   <PropertyGroup>
     <NameOfLastUsedPublishProfile>Priyaranjan - Web Deploy</NameOfLastUsedPublishProfile>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
+    <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
 </Project>
