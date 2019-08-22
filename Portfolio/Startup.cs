@@ -59,5 +59,10 @@ namespace Portfolio
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
+
+        public void TestFunction(string Name)
+        {
+            //Do nothing. This is to illustrate how Github works. 
+        }
     }
 }
